@@ -1,0 +1,7 @@
+*.json
+*.pyc
+__pycache__
+.idea
+*.swp
+.venv
+
